@@ -37,7 +37,7 @@
                 </div>
         </form>
         <div class="col-md-6">
-            <button type="submit" class="btn btn-dark" onclick="chamarApiService()">Enviar</button>
+            <button type="submit" class="btn btn-dark" id="btn" onclick="chamarApiService()">Enviar</button>
         </div>
     </div>
 </div><br>
@@ -47,8 +47,6 @@
 </div>
 
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.min.js"></script>
 <script src="../../assets/js/script.js"></script>
 
 </body>

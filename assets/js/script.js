@@ -1,6 +1,18 @@
 function chamarApiService() {
-    var latitude = document.getElementById('latitude').value;
-    var longitude = document.getElementById('longitude').value;
+    var latitudeInput = document.getElementById('latitude');
+    var longitudeInput = document.getElementById('longitude');
+
+    var latitude = latitudeInput.value;
+    var longitude = longitudeInput.value;
+
+    if (latitude.trim() === '' || longitude.trim() === '') {
+        // Display an alert if latitude or longitude is empty
+        alert('Por favor, preencha os campos de latitude e longitude.');
+        
+        // Set focus on the latitude input field
+        latitudeInput.focus();
+        return;
+    }
 
     // Obtém o valor do radio selecionado
     var tipoCheckbox = document.querySelector('input[name="tipo"]:checked');
