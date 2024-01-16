@@ -31,10 +31,6 @@
                 <label for="sunrise">Nascer do Sol</label>
                 <input type="radio" name="tipo" value="sunrise" id="sunrise">
             </div>
-            <div class="form-check">
-                <label for="sunrise">Ambos</label>
-                <input type="radio" name="tipo" value="both" id="both">
-                </div>
         </form>
         <div class="col-md-6">
             <button type="submit" class="btn btn-dark" id="btn" onclick="chamarApiService()">Enviar</button>
