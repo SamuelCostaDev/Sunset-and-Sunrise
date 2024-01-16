@@ -24,6 +24,16 @@ Para usar o projeto, siga os seguintes passos:
 
 A saída do projeto será uma lista com os horários do pôr do sol e do nascer do sol para a sua localização.
 
+## Executando a Aplicação
+
+1. Baixe a imagem do Docker Hub:
+
+   ```bash
+   docker pull devsamuel/microservice:1.0
+2. Execute o contêiner:
+
+   ```bash
+   docker run -p 8080:80 devsamuel/microservice:1.0
 
 # Sobre mim...
 
