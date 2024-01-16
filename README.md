@@ -29,7 +29,7 @@ A saída do projeto será uma lista com os horários do pôr do sol e do nascer 
 
 ## 1) Como você começou no mundo da programação? Quais foram suas motivações? O que chamou sua atenção?
 - Bom, meu primeiro contato com a programação foi antes da pandêmia. Comecei a fazer um curso de HTML e CSS, mas não foi pra frente. O estopim mesmo (quando descobri minha paixão pela coisa) foi no meu ensino médio, em uma escola profissionalizante. No meu curso de técnico em informática tínhamos aula de desenvolvimento web e ali eu descobri minha verdadeira vocação, de lá pra cá tento cada dia mais dar meu melhor para aumentar meu nível de conhecimento teórico e prático, fazendo cursos e me aprofundando em assuntos já familiares.
-- Acho que minha maior motivação foi meu irmão, por ver ele na área de tecnologia, me motivou a entrar nesse mundo, inclusive ele foi o primeiro a me incentivar a ir para o mundo de programação.
+- Bom minha maior motivação foi meu irmão, por ver ele na área de tecnologia, me motivou a entrar nesse mundo, inclusive ele foi o primeiro a me incentivar a ir para o mundo de programação.
 - O que me chamou mais a atenção foi o poder de eu mesmo que desenvolver alguma coisa. Uma autonomia.
 
 ## Você tem algum projeto pessoal que tem trabalhado recentemente? Se sim,poderia nos contar um pouco sobre o projeto e quais tem sido seus principais desafios?
