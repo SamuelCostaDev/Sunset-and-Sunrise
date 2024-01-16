@@ -29,8 +29,8 @@ A saída do projeto será uma lista com os horários do pôr do sol e do nascer 
 
 ## 1) Como você começou no mundo da programação? Quais foram suas motivações? O que chamou sua atenção?
 - Bom, meu primeiro contato com a programação foi antes da pandêmia. Comecei a fazer um curso de HTML e CSS, mas não foi pra frente. O estopim mesmo (quando descobri minha paixão pela coisa) foi no meu ensino médio, em uma escola profissionalizante. No meu curso de técnico em informática tínhamos aula de desenvolvimento web e ali eu descobri minha verdadeira vocação, de lá pra cá tento cada dia mais dar meu melhor para aumentar meu nível de conhecimento teórico e prático, fazendo cursos e me aprofundando em assuntos já familiares.
-- Bom minha maior motivação foi meu irmão, por ver ele na área de tecnologia, me motivou a entrar nesse mundo, inclusive ele foi o primeiro a me incentivar a ir para o mundo de programação.
-- O que me chamou mais a atenção foi o poder de eu mesmo que desenvolver alguma coisa. Uma autonomia.
+- Minha maior motivação foi meu irmão, ele também é da área de tecnologia, mais precisamente, CyberSecutiry. Ele me motivou a entrar nesse mundo, eu até tentei seguir o mesmo caminho que ele, mas senti que não era pra mim, quando comecei a estudar programação descobri no que eu queria me especializar.
+- O que mais me chamou atenção nessa área, foi a autonomia de eu mesmo pegar ou preparar um projeto e desenvolvê-lo.
 
 ## Você tem algum projeto pessoal que tem trabalhado recentemente? Se sim,poderia nos contar um pouco sobre o projeto e quais tem sido seus principais desafios?
 - Eu tive trabalhando em um simples gerador de Certidão de Nascimento. Estava arrumando meus documentos, quando vi minha certidão e pensei, caramba, fizeram isso na mão, ai me surgiu a ideia de fazer algo que automatizasse esse problema.
