@@ -30,6 +30,10 @@ A saída do projeto será uma lista com os horários do pôr do sol e do nascer 
 
    ```bash
    docker pull devsamuel/microservice:1.0
+2. Execute o docker-compose:
+
+   ```bash
+    docker-compose up -d
 2. Execute o contêiner:
 
    ```bash
