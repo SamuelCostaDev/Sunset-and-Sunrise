@@ -1,2 +1,46 @@
-# Teste
- 
+# Sobre o projeto
+
+Este projeto fornece horários do pôr do sol e do nascer do sol para uma determinada latitude e longitude.
+
+Para realização do mesmo, foi consumida a API [Sunrise Sunset](https://rapidapi.com/Macca895/api/sunrise-sunset-times).
+
+A API Sunrise Sunset fornece horários do pôr do sol e do nascer do sol usando data, latitude e longitude. A API é gratuita para uso pessoal.
+
+## Tecnologias utilizadas
+
+* HTML
+* CSS (Com Bootstrap)
+* JavaScript
+* PHP
+
+## Como usar
+
+Para usar o projeto, siga os seguintes passos:
+
+1. Baixe o projeto do GitHub.
+2. Abra o projeto em sua IDE favorita.
+3. Defina a latitude e a longitude da sua localização.
+4. Execute o projeto.
+
+A saída do projeto será uma lista com os horários do pôr do sol e do nascer do sol para a sua localização.
+
+
+# Sobre mim...
+
+## 1) Como você começou no mundo da programação? Quais foram suas motivações? O que chamou sua atenção?
+- Bom, meu primeiro contato com a programação foi antes da pandêmia. Comecei a fazer um curso de HTML e CSS, mas não foi pra frente. O estopim mesmo (quando descobri minha paixão pela coisa) foi no meu ensino médio, em uma escola profissionalizante. No meu curso de técnico em informática tínhamos aula de desenvolvimento web e ali eu descobri minha verdadeira vocação, de lá pra cá tento cada dia mais dar meu melhor para aumentar meu nível de conhecimento teórico e prático, fazendo cursos e me aprofundando em assuntos já familiares.
+- Bom minha maior motivação foi meu irmão, por ver ele na área de tecnologia, me motivou a entrar nesse mundo, inclusive ele foi o primeiro a me incentivar a ir para o mundo de programação.
+- O que me chamou mais a atenção foi o poder de eu mesmo que desenvolver alguma coisa. Uma autonomia.
+
+## Você tem algum projeto pessoal que tem trabalhado recentemente? Se sim,poderia nos contar um pouco sobre o projeto e quais tem sido seus principais desafios?
+- Eu tive trabalhando em um simples gerador de Certidão de Nascimento. Estava arrumando meus documentos, quando vi minha certidão e pensei, caramba, fizeram isso na mão, ai me surgiu a ideia de fazer algo que automatizasse esse problema.
+- Meu maior desafio foi pegar os valores e jogar em outra página para poder gerar o texto com todas as informações.
+- [Certidão de Nascimento](https://github.com/SamuelCostaDev/CertidaoNascimento).
+
+## 3) Para você, qual é a forma mais efetiva de aprender algo novo relacionado à
+programação?
+- Ler Documentação e ver videos no Youtube.
+
+## 4) Defina, na sua percepção, quais características uma pessoa deve ter para ser
+considerada boa desenvolvedora?
+- Evitar vicios de linguagem e tentar dar o melhor de si, sem querer competir com o outro, humildade.
