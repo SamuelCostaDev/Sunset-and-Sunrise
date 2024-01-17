@@ -25,6 +25,6 @@ COPY ./ /var/www/html
 
 EXPOSE 80
 
-WORKDIR /var/www/html/view/template
+WORKDIR /var/www/html/
 
 CMD ["/etc/init.d/apache2", "start", "&&", "/bin/bash"]
