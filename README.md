@@ -18,18 +18,16 @@ A API Sunrise Sunset fornece horários do pôr do sol e do nascer do sol usando 
 Para usar o projeto, siga os seguintes passos:
 
 1. Baixe o projeto do GitHub.
-2. Abra o projeto em sua IDE favorita.
-3. Defina a latitude e a longitude da sua localização.
-4. Execute o projeto.
+2. Abra o terminal na pasta do projeto
 
-A saída do projeto será uma lista com os horários do pôr do sol e do nascer do sol para a sua localização.
+No terminal aberto na pasta do projeto siga as recomendações abaixo
 
 ## Executando a Aplicação
 
 1. Baixe a imagem do Docker Hub:
 
    ```bash
-   docker pull devsamuel/microservice:1.0
+   docker pull devsamuel/prod:1.0
 2. Execute o docker-compose:
 
    ```bash
@@ -37,7 +35,7 @@ A saída do projeto será uma lista com os horários do pôr do sol e do nascer 
 2. Execute o contêiner:
 
    ```bash
-   docker run -p 8080:80 devsamuel/microservice:1.0
+   docker run -p 8020:80 devsamuel/prod:1.0
 
 # Sobre mim...
 
