@@ -20,7 +20,8 @@ RUN apt-get install -y apache2 git php php-xdebug php7.4-mysql && \
     rm -rf /var/lib/apt/lists/*
 
 # Copia todos os arquivos do diretório local para o diretório do Apache
-COPY ./Teste /var/www/html
+COPY ./ /var/www/html
+
 
 EXPOSE 80
 
