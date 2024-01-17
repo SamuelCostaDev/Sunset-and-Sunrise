@@ -25,11 +25,12 @@
                 <input type="text" class="form-control" id="longitude" required>
             </div>
             <div class="form-check">
-                <label for="sunset">Pôr do Sol</label>               <input type="radio" name="tipo" value="sunset" id="sunset">
+                <input type="radio" name="tipo" value="sunset" id="sunset">
+                <label for="sunset">Pôr do Sol</label>               
             </div>
             <div class="form-check">
-                <label for="sunrise">Nascer do Sol</label>
                 <input type="radio" name="tipo" value="sunrise" id="sunrise">
+                <label for="sunrise">Nascer do Sol</label>
             </div>
         </form>
         <div class="col-md-6">
