@@ -22,9 +22,10 @@ RUN apt-get install -y apache2 git php php-xdebug php7.4-mysql && \
 # Copia todos os arquivos do diretório local para o diretório do Apache
 COPY ./ /var/www/html
 
-
 EXPOSE 80
 
-WORKDIR /var/www/html/
+WORKDIR /var/www/html
 
-CMD ["/etc/init.d/apache2", "start", "&&", "/bin/bash"]
+ENTRYPOINT /etc/init.d/apache2 start && /bin/bash
+
+CMD ["true"]
